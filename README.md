@@ -1,9 +1,8 @@
 # Fraud Detection using Machine Learning Models
 
 ## Overview  
-This project focuses on detecting fraudulent credit card transactions using multiple machine learning classification models. It compares model performance using standard evaluation metrics.
+This project focuses on detecting fraudulent credit card transactions using multiple machine learning classification models. It compares model performance using standard evaluation metrics. 
 
-Includes preprocessing, and models like Logistic Regression, KNN, Naive Bayes, Decision Tree, Random Forest, and XGBoost, evaluated using F1-score, ROC-AUC, and confusion matrix.
 ---
 
 ## Dataset  
